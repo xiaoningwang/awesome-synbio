@@ -13,8 +13,8 @@ Synthetic biology is a field dedicated to applying engineering principles to bio
 
 ## Papers<a name="papers"></a>
 ### Gene networks<a name="papers-gene-networks">
-- Atilla Becskei, Luis Serrano, [Engineering stability in gene networks by autoregulation](https://www.nature.com/articles/35014651)
-- Nitzan Rosenfeld, Michael B. Elowitz, Uri Alon, [Negative Autoregulation Speeds the Response Times of Transcription Networks](https://www.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/nar_jmb_reprint.pdf)
+- Atilla Becskei, Luis Serrano, [Engineering stability in gene networks by autoregulation](https://www.nature.com/articles/35014651), *Nature*, Volume 405, pages 590–593 (01 June 2000)
+- Nitzan Rosenfeld, Michael B. Elowitz, Uri Alon, [Negative Autoregulation Speeds the Response Times of Transcription Networks](https://www.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/nar_jmb_reprint.pdf), *Journal of Molecular Biology*, Volume 323, Issue 5, pages 785-793 (08 November 2002)
 
 ## Learning resources<a name="learning-resources"></a>
 - Uri Alon, [Systems biology course, Weizmann Institute of Science, 2014](https://www.youtube.com/playlist?list=PLx1I6vEp40NQgAS0wxs53Y9A8-8cL9h_y)
