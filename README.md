@@ -8,6 +8,8 @@ Synthetic biology is a field dedicated to applying engineering principles to bio
 - [Papers](#papers)
   - [Cell-free protein synthesis](#papers-cell-free-protein-synthesis)
   - [Gene networks](#papers-gene-networks)
+  - [Ribosomal binding sites](#papers-ribosomal-binding-sites)
+  - [Ribosomal regulators](#papers-ribosomal-regulators)
 - [Learning resources](#learning-resources)
 
 ## Books<a name="books"></a>
@@ -27,11 +29,18 @@ Synthetic biology is a field dedicated to applying engineering principles to bio
 
 ## Papers<a name="papers"></a>
 ### Cell-free protein synthesis<a name="papers-cell-free-protein-synthesis"></a>
-- Olivier Borkowski, Carlos Bricio, Michela Murgiano, Brooke Rothschild-Mancinelli, Guy-Bart Stan & Tom Ellis, [Cell-free prediction of protein expression costs for growing cells](https://www.nature.com/articles/s41467-018-03970-x). *Nature Communications*, Volume 9, doi:10.1038/s41467-018-03970-x (2018)
+- Olivier Borkowski, Carlos Bricio, Michela Murgiano, Brooke Rothschild-Mancinelli, Guy-Bart Stan & Tom Ellis, [Cell-free prediction of protein expression costs for growing cells](https://www.nature.com/articles/s41467-018-03970-x). *Nature Communications* (2018)
 
 ### Gene networks<a name="papers-gene-networks">
-- Atilla Becskei, Luis Serrano, [Engineering stability in gene networks by autoregulation](https://www.nature.com/articles/35014651), *Nature*, Volume 405, pages 590–593 (01 June 2000)
-- Nitzan Rosenfeld, Michael B. Elowitz, Uri Alon, [Negative Autoregulation Speeds the Response Times of Transcription Networks](https://www.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/nar_jmb_reprint.pdf). *Journal of Molecular Biology*, Volume 323, Issue 5, pages 785-793 (08 November 2002)
+- Atilla Becskei, Luis Serrano, [Engineering stability in gene networks by autoregulation](https://www.nature.com/articles/35014651), *Nature* (2000)
+- Nitzan Rosenfeld, Michael B. Elowitz, Uri Alon, [Negative Autoregulation Speeds the Response Times of Transcription Networks](https://www.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/nar_jmb_reprint.pdf). *Journal of Molecular Biology* (2002)
+
+### Ribosomal binding sites<a name="papers-ribosomal-binding-sites">
+- Howard M Salis, Ethan A Mirsky, Christopher A Voigt, [Automated design of synthetic ribosome binding sites to control protein expression](https://www.nature.com/articles/nbt.1568?message=remove), *Nature Biotechnology* (2009)
+
+### Ribosomal regulators<a name="papers-ribosomal-regulators"></a>
+- Travis S Bayer, Christina D Smolke, [Programmable ligand-controlled riboregulators of eukaryotic gene expression](https://www.nature.com/articles/35014651), *Nature* (2000)
+- Jarred M Callura, Daniel J Dwyer, Farren J Isaacs, Charles R Cantor, and James J Collins, [Tracking, tuning, and terminating microbial physiology using synthetic riboregulators](http://www.pnas.org/content/107/36/15898.full), *PNAS* (2010)
 
 ## Learning resources<a name="learning-resources"></a>
 - Uri Alon, [Systems biology course, Weizmann Institute of Science, 2014](https://www.youtube.com/playlist?list=PLx1I6vEp40NQgAS0wxs53Y9A8-8cL9h_y)
