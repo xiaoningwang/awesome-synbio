@@ -1,5 +1,9 @@
 # Awesome synthetic biology
-Synthetic biology is a field dedicated to applying engineering principles to biology to build artificial biological systems. This repository aims to provide a useful resource for those wish to work in the field and those who are already working in it. The books and papers are categorized within subfields. Feel free to add any resources which you find useful!
+Synthetic biology is a field dedicated to applying engineering principles to biology to build artificial biological systems. This repository aims to provide a useful resource for those wish to work in the field and those who are already working in it. The books and papers are categorized within subfields.
+
+Feel free to add any resources which you find useful! If you would like to do so, submit a pull request or contact me [@TivadarDanka](https://twitter.com/TivadarDanka).
+
+## Table of contents
 
 - [Books](#books)  
   - [Metabolic engineering](#books-metabolic-engineering)
