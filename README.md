@@ -7,7 +7,9 @@ Synthetic biology is a field dedicated to applying engineering principles to bio
   - [Systems biology, modelling](#books-modelling)
 - [Papers](#papers)
   - [Cell-free protein synthesis](#papers-cell-free-protein-synthesis)
-  - [Gene networks](#papers-gene-networks)
+  - [Metabolic engineering](#papers-metabolic-engineering)
+  - [Post-transcriptional regulation](#papers-post-transcriptional-regulation)
+  - [Transcriptional networks](#papers-transcriptional-networks)
   - [Ribosomal binding sites](#papers-ribosomal-binding-sites)
   - [Ribosomal regulators](#papers-ribosomal-regulators)
 - [Learning resources](#learning-resources)
@@ -31,7 +33,14 @@ Synthetic biology is a field dedicated to applying engineering principles to bio
 ### Cell-free protein synthesis<a name="papers-cell-free-protein-synthesis"></a>
 - Olivier Borkowski, Carlos Bricio, Michela Murgiano, Brooke Rothschild-Mancinelli, Guy-Bart Stan & Tom Ellis, [Cell-free prediction of protein expression costs for growing cells](https://www.nature.com/articles/s41467-018-03970-x). *Nature Communications* (2018)
 
-### Gene networks<a name="papers-gene-networks">
+### Metabolic engineering<a name="papers-metabolic-engineering">
+-  Yee Wen Choon, Mohd Saberi Mohamad, Safaai Deris, Rosli Md. Illias, Chuii Khim Chong, Lian En Chai, Sigeru Omatu, Juan Manuel Corchado, [Differential Bees Flux Balance Analysis with OptKnock for In Silico Microbial Strains Optimization](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102744). *PLoS One* (2014)
+- Rongming Liu, Marcelo C.Bassalo, Ramsey I.Zeitoun, Ryan T.Gill, [Genome scale engineering techniques for metabolic engineering](https://www.sciencedirect.com/science/article/pii/S1096717615001238). *Metabolic Engineering* (2015)
+
+### Post-transcriptional regulation<a name="papers-post-transcriptional-regulation">
+- Teresa Nogueira, Mathias Springer, [Post-transcriptional control by global regulators of gene expression in bacteria](https://www.sciencedirect.com/science/article/pii/S1369527400000680). *Current Opinion in Microbiology* (2000)
+
+### Transcriptional networks<a name="papers-transcriptional-networks">
 - Atilla Becskei, Luis Serrano, [Engineering stability in gene networks by autoregulation](https://www.nature.com/articles/35014651), *Nature* (2000)
 - Nitzan Rosenfeld, Michael B. Elowitz, Uri Alon, [Negative Autoregulation Speeds the Response Times of Transcription Networks](https://www.weizmann.ac.il/mcb/UriAlon/sites/mcb.UriAlon/files/nar_jmb_reprint.pdf). *Journal of Molecular Biology* (2002)
 
