@@ -28,14 +28,14 @@ Synthetic biology is a field dedicated to applying engineering principles to bio
 
 ### Systems biology, modelling<a name="books-modelling"></a>
 - Uri Alon, [An Introduction to Systems Biology: Design Principles of Biological Circuits (Chapman & Hall/CRC Mathematical and Computational Biology)](http://www.weizmann.ac.il/mcb/UriAlon/introduction-systems-biology-design-principles-biological-circuits) (2006)
-- Andreas Kremling, [Systems Biology: Mathematical Modeling and Model Analysis](https://www.crcpress.com/Systems-Biology-Mathematical-Modeling-and-Model-Analysis/Kremling/p/book/9781466567894)(2013)
+- Andreas Kremling, [Systems Biology: Mathematical Modeling and Model Analysis](https://www.crcpress.com/Systems-Biology-Mathematical-Modeling-and-Model-Analysis/Kremling/p/book/9781466567894) (2013)
 
 ## Papers<a name="papers"></a>
 ### Cell-free protein synthesis<a name="papers-cell-free-protein-synthesis"></a>
 - Olivier Borkowski, Carlos Bricio, Michela Murgiano, Brooke Rothschild-Mancinelli, Guy-Bart Stan & Tom Ellis, [Cell-free prediction of protein expression costs for growing cells](https://www.nature.com/articles/s41467-018-03970-x). *Nature Communications* (2018)
 
 ### Gene synthesis<a name="papers-gene-synthesis">
-- Tom Ellis, Tom Adieac, Geoff S. Baldwin, [DNA assembly for synthetic biology: from parts to pathways and beyond ](http://pubs.rsc.org/en/content/articlelanding/2011/ib/c0ib00070a). *Integrative Biology* (2011)
+- Tom Ellis, Tom Adieac, Geoff S. Baldwin, [DNA assembly for synthetic biology: from parts to pathways and beyond](http://pubs.rsc.org/en/content/articlelanding/2011/ib/c0ib00070a). *Integrative Biology* (2011)
 
 ### Metabolic engineering<a name="papers-metabolic-engineering">
 - Yee Wen Choon, Mohd Saberi Mohamad, Safaai Deris, Rosli Md. Illias, Chuii Khim Chong, Lian En Chai, Sigeru Omatu, Juan Manuel Corchado, [Differential Bees Flux Balance Analysis with OptKnock for In Silico Microbial Strains Optimization](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102744). *PLoS One* (2014)
