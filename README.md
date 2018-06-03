@@ -11,6 +11,8 @@ Feel free to add any resources which you find useful! If you would like to do so
   - [Systems biology, modelling](#books-modelling)
 - [Papers](#papers)
   - [Cell-free protein synthesis](#papers-cell-free-protein-synthesis)
+  - [Computational modelling](#papers-computational-modelling)
+  - [Evolutionary engineering](#papers-evolutionary-engineering)
   - [Gene synthesis](#papers-gene-synthesis)
   - [Metabolic engineering](#papers-metabolic-engineering)
   - [Post-transcriptional regulation](#papers-post-transcriptional-regulation)
@@ -37,6 +39,12 @@ Feel free to add any resources which you find useful! If you would like to do so
 ## Papers<a name="papers"></a>
 ### Cell-free protein synthesis<a name="papers-cell-free-protein-synthesis"></a>
 - Olivier Borkowski, Carlos Bricio, Michela Murgiano, Brooke Rothschild-Mancinelli, Guy-Bart Stan & Tom Ellis, [Cell-free prediction of protein expression costs for growing cells](https://www.nature.com/articles/s41467-018-03970-x). *Nature Communications* (2018)
+
+### Computational modelling<a name="papers-computational-modelling"></a>
+- Neil Dalchau, Gregory Szép, Rosa Hernansaiz-Ballesteros, Chris P. Barnes, Luca Cardelli, Andrew Phillips, Attila Csikász-Nagy, [Computing with biological switches and clocks](https://link.springer.com/article/10.1007%2Fs11047-018-9686-x), *Natural Computing* (2018)
+
+### Evolutionary engineering<a name="papers-evolutionary-engineering"></a>
+- Denis Shepelin, Anne Sofie Lærke Hansen, Rebecca Lennen, Hao Luo, Markus J. Herrgård, [Selecting the Best: Evolutionary Engineering of Chemical Production in Microbes](http://www.mdpi.com/2073-4425/9/5/249), *Genes* (2018)
 
 ### Gene synthesis<a name="papers-gene-synthesis">
 - Tom Ellis, Tom Adieac, Geoff S. Baldwin, [DNA assembly for synthetic biology: from parts to pathways and beyond](http://pubs.rsc.org/en/content/articlelanding/2011/ib/c0ib00070a), *Integrative Biology* (2011)
