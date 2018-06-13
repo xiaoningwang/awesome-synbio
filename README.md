@@ -14,6 +14,7 @@ Feel free to add any resources which you find useful! If you would like to do so
   - [Computational modelling](#papers-computational-modelling)
   - [Evolutionary engineering](#papers-evolutionary-engineering)
   - [Gene synthesis](#papers-gene-synthesis)
+  - [In silico design](#papers-in-silico-design)
   - [Metabolic engineering](#papers-metabolic-engineering)
   - [Post-transcriptional regulation](#papers-post-transcriptional-regulation)
   - [Transcriptional networks](#papers-transcriptional-networks)
@@ -48,6 +49,10 @@ Feel free to add any resources which you find useful! If you would like to do so
 
 ### Gene synthesis<a name="papers-gene-synthesis">
 - Tom Ellis, Tom Adieac, Geoff S. Baldwin, [DNA assembly for synthetic biology: from parts to pathways and beyond](http://pubs.rsc.org/en/content/articlelanding/2011/ib/c0ib00070a), *Integrative Biology* (2011)
+  
+### In silico design<a name="papers-in-silico-design">
+- Paul François, [Evolving phenotypic networks in silico](https://www.sciencedirect.com/science/article/pii/S1084952114001852), *Seminars in Cell & Developmental Biology* (2014)
+- Adrien Henry, Mathieu Hemery, Paul François, [φ-evo: A program to evolve phenotypic models of biological networks](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006244), *PLoS Computational Biology* (2018)
 
 ### Metabolic engineering<a name="papers-metabolic-engineering">
 - Yee Wen Choon, Mohd Saberi Mohamad, Safaai Deris, Rosli Md. Illias, Chuii Khim Chong, Lian En Chai, Sigeru Omatu, Juan Manuel Corchado, [Differential Bees Flux Balance Analysis with OptKnock for In Silico Microbial Strains Optimization](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102744), *PLoS One* (2014)
