@@ -14,6 +14,7 @@ Feel free to add any resources which you find useful! If you would like to do so
   - [Computational modelling](#papers-computational-modelling)
   - [Evolutionary engineering](#papers-evolutionary-engineering)
   - [Gene synthesis](#papers-gene-synthesis)
+  - [Genetic circuit design](#paper-genetic-circuit-design)
   - [In silico design](#papers-in-silico-design)
   - [Metabolic engineering](#papers-metabolic-engineering)
   - [Post-transcriptional regulation](#papers-post-transcriptional-regulation)
@@ -50,13 +51,16 @@ Feel free to add any resources which you find useful! If you would like to do so
 ### Gene synthesis<a name="papers-gene-synthesis">
 - Tom Ellis, Tom Adieac, Geoff S. Baldwin, [DNA assembly for synthetic biology: from parts to pathways and beyond](http://pubs.rsc.org/en/content/articlelanding/2011/ib/c0ib00070a), *Integrative Biology* (2011)
   
+### Genetic circuit design<a name="paper-genetic-circuit-design">
+- Jennifer A. N. Brophy, Christopher A. Voigt, [Principles of genetic circuit design](https://www.nature.com/articles/nmeth.2926), *Nature Methods* (2014)
+  
 ### In silico design<a name="papers-in-silico-design">
 - Paul François, [Evolving phenotypic networks in silico](https://www.sciencedirect.com/science/article/pii/S1084952114001852), *Seminars in Cell & Developmental Biology* (2014)
 - Adrien Henry, Mathieu Hemery, Paul François, [φ-evo: A program to evolve phenotypic models of biological networks](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006244), *PLoS Computational Biology* (2018)
 
 ### Metabolic engineering<a name="papers-metabolic-engineering">
 - Yee Wen Choon, Mohd Saberi Mohamad, Safaai Deris, Rosli Md. Illias, Chuii Khim Chong, Lian En Chai, Sigeru Omatu, Juan Manuel Corchado, [Differential Bees Flux Balance Analysis with OptKnock for In Silico Microbial Strains Optimization](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102744), *PLoS One* (2014)
-- Rongming Liu, Marcelo C.Bassalo, Ramsey I.Zeitoun, Ryan T.Gill, [Genome scale engineering techniques for metabolic engineering](https://www.sciencedirect.com/science/article/pii/S1096717615001238), *Metabolic Engineering* (2015)
+- Rongming Liu, Marcelo C. Bassalo, Ramsey I. Zeitoun, Ryan T.Gill, [Genome scale engineering techniques for metabolic engineering](https://www.sciencedirect.com/science/article/pii/S1096717615001238), *Metabolic Engineering* (2015)
 
 ### Post-transcriptional regulation<a name="papers-post-transcriptional-regulation">
 - Teresa Nogueira, Mathias Springer, [Post-transcriptional control by global regulators of gene expression in bacteria](https://www.sciencedirect.com/science/article/pii/S1369527400000680), *Current Opinion in Microbiology* (2000)
